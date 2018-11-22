@@ -1,0 +1,16 @@
+{
+    "name": "pavinatto/projeto-teste",
+    "description": "Projeto teste para o projeto final",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefany Pavinatto",
+            "email": "stefanypavinatto__@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.4@dev"
+    }
+}
